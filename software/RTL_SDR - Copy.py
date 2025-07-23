@@ -1,6 +1,5 @@
 
 from rtlsdr import RtlSdr
-import pylab as pyl
 import numpy as np
 from scipy.signal import welch
 from datetime import datetime
